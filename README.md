@@ -1,4 +1,4 @@
-# pcc-inline-caching-demo
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br># pcc-inline-caching-demo
 
 This demo is used to show how inline cache pattern is used in Pivotal Cloud Cache and MongoDB.
 
